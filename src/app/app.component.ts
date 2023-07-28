@@ -42,8 +42,7 @@ export class AppComponent {
         {
           type: 'face',
           options: {
-            requestedVariant: 'motion',
-            motionFallbackVariant: 'video',
+            requestedVariant: 'video'
           }
         },
         'complete'
